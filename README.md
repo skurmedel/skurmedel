@@ -14,5 +14,5 @@
 ## A guide to good tea
 - Assam or Ceylon leaves
 - 95 celcius
-- 5 minute brew
+- 3 minute brew
 - dash of milk
